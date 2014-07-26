@@ -1,0 +1,1 @@
+This codebook describes the variables and any transformations that have been made to make the data tidy.
